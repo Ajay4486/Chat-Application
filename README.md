@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Chat-Application
 
 
